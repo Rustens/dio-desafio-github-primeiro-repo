@@ -2,4 +2,4 @@
 teste de criação e desafio de projeto sobre git/github.
 
 ## Links úteis
-[Sintaxe básica para markdown] (https://www.markdownguide.org/basic-syntax/)
+<h3>Sintaxe básica para markdown</h3> (https://www.markdownguide.org/basic-syntax/)
